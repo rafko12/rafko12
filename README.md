@@ -1,9 +1,8 @@
 # Hi there 👋
 
+My website http://rafalgwozdzik.pl/
 
 ### Languages and Tools:
-
-My website http://rafalgwozdzik.pl/
 
 <p align="left"> 
 <a href="https://developer.mozilla.org/en-US/docs/web/html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
